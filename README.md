@@ -4,7 +4,7 @@ GranulationMapping
 
 PureData object "weightedinterpolation" + example patch TUIO to MashtaCycle Granulation
 
-The object weightedinterpolation reads a text file "GranulationPresets" and creates a two-dimensions map on which the presets are placed.
+The object weightedinterpolation reads a text file "GranulationPresets.txt" and creates a two-dimensions map on which the presets are placed.
 The TUIO cursor takes a value depending on the distances that separate it from each of the presets.
 
 
