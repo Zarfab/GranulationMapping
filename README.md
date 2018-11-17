@@ -10,7 +10,7 @@ The TUIO cursor takes a value depending on the distances that separate it from e
 
 Implementation by Fabien Grisard (Grenoble INP, internship at [numediart institute](http://www.numediart.org))
 
-Method come from T. Todoroff et al. in [Dancing Viola](http://www.old.numediart.org/files/numediart_2008_s04_p2_report.pdf)
+Method come from T. Todoroff et al. in [Dancing Viola](http://old.numediart.org/files/numediart_2008_s04_p2_report.pdf)
 
 
 Using TUIO PureData Client 1.4, Copyright (c) 2005-200 Martin Kaltenbrunner <mkalten@iua.upf.edu>
